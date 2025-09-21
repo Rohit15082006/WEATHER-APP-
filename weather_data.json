@@ -1,0 +1,21 @@
+{
+  "todoItems": [],
+  "currentWeather": "🌡 Temperature: 34.1°C\n💧 Humidity: 49%\n🌬 Wind: 3.1 m/s\n🌤 Condition: haze\n",
+  "weather": {
+    "currentWeather": "🌡 Temperature: 33.05°C\n💧 Humidity: 52%\n🌬 Wind: 3.09 m/s\n🌤️ Condition: Haze - haze\n",
+    "city": "delhi",
+    "airPollution": "Air Pollution Data:\nCO: 121.66 μg/m³\nNO\u2082: 0.6 μg/m³\nSO\u2082: 1.25 μg/m³\nPM2.5: 20.06 μg/m³\n",
+    "forecast": "📅 Forecast:\n  2025-09-21 09:00:00 - 34.05°C - Clouds - scattered clouds\n  2025-09-22 09:00:00 - 37.77°C - Clear - clear sky\n  2025-09-23 09:00:00 - 37.45°C - Clear - clear sky\n  2025-09-24 09:00:00 - 37.13°C - Clear - clear sky\n  2025-09-25 09:00:00 - 37.14°C - Clear - clear sky\n"
+  },
+  "airPollution": "\n🌍 Air Pollution Data:\nCO: 121.66 µg/m³\nNO\u2082: 0.60 µg/m³\nSO\u2082: 1.25 µg/m³\nPM2.5: 20.06 µg/m³\n",
+  "forecast": "📅 5-Day Forecast:\n📆 2025-09-21 09:00:00: 🌡 33.1°C - scattered clouds\n📆 2025-09-22 09:00:00: 🌡 37.8°C - clear sky\n📆 2025-09-23 09:00:00: 🌡 37.5°C - clear sky\n📆 2025-09-24 09:00:00: 🌡 37.1°C - clear sky\n📆 2025-09-25 09:00:00: 🌡 37.1°C - clear sky\n",
+  "suggestions": [
+    "🧊 Stay in shade and cool areas",
+    "🧴 Apply sunscreen regularly",
+    "🏊 Consider swimming if possible",
+    "🪁 Secure loose items outdoors",
+    "📅 Plan activities according to weather",
+    "📱 Check updates for weather changes"
+  ],
+  "Location": "delhi"
+}
